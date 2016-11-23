@@ -1,0 +1,9 @@
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\PoeStashServer.exe.config
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\PoeStashServer.exe
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\PoeStashServer.pdb
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\obj\Debug\PoeStashServer.csprojResolveAssemblyReference.cache
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\obj\Debug\PoeStashServer.exe
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\obj\Debug\PoeStashServer.pdb
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\Json.NET.Web.dll
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kpcna\Desktop\POEStashServer\PoeStashServer\PoeStashServer\bin\Debug\Newtonsoft.Json.xml
